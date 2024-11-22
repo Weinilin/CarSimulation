@@ -1,0 +1,1 @@
+Description: Developed a car simulation program that models multiple cars with specific coordinates (x, y) and directions to detect potential collisions. Used MVC architecture to separate concerns and Command Pattern to handle user inputs for car movements.
